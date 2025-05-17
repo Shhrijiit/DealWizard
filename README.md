@@ -1,4 +1,4 @@
-# 💻 BuyGenie – AI-Powered Laptop Recommendation Assistant
+# 💻 DEALWIZARD – AI-Powered Laptop Recommendation Assistant
 
 BuyGenie is an intelligent assistant that helps users find the best laptops using natural language queries. It combines large language models (LLMs), semantic search with FAISS, and structured SQL filtering for fast and relevant product recommendations.
 
