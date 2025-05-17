@@ -1,0 +1,30 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+flask = "*"
+requests = "*"
+beautifulsoup4 = "*"
+bs4 = "*"
+html5lib = "*"
+lxml = "*"
+selenium = "*"
+webdriver-manager = "*"
+ipykernel = "*"
+pandas = "*"
+sentence-transformers = "*"
+faiss-cpu = "*"
+langchain = "*"
+openai = "*"
+streamlit = "*"
+langchain-community = "*"
+pydantic = "*"
+ipywidgets = "*"
+langchain-openai = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.10"
